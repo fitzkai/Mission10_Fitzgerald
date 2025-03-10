@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|c:\\users\\fitzk\\source\\repos\\mission10_fitzgerald\\backend\\mission10_fitzgerald\\mission10_fitzgerald\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|solutionrelative:mission10_fitzgerald\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|c:\\users\\fitzk\\source\\repos\\mission10_fitzgerald\\backend\\mission10_fitzgerald\\mission10_fitzgerald\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|solutionrelative:mission10_fitzgerald\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|c:\\users\\fitzk\\source\\repos\\mission10_fitzgerald\\backend\\mission10_fitzgerald\\mission10_fitzgerald\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|solutionrelative:mission10_fitzgerald\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|c:\\users\\fitzk\\source\\repos\\mission10_fitzgerald\\backend\\mission10_fitzgerald\\mission10_fitzgerald\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|solutionrelative:mission10_fitzgerald\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|c:\\users\\fitzk\\source\\repos\\mission10_fitzgerald\\backend\\mission10_fitzgerald\\mission10_fitzgerald\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|solutionrelative:mission10_fitzgerald\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|c:\\users\\fitzk\\source\\repos\\mission10_fitzgerald\\backend\\mission10_fitzgerald\\mission10_fitzgerald\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F385EC6-7933-44CD-B631-713474F2E952}|Mission10_Fitzgerald\\Mission10_Fitzgerald.csproj|solutionrelative:mission10_fitzgerald\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mission10_Fitzgerald\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mission10_Fitzgerald\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T20:56:43.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Program.cs",
+              "RelativeDocumentMoniker": "Mission10_Fitzgerald\\Program.cs",
+              "ToolTip": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Program.cs",
+              "RelativeToolTip": "Mission10_Fitzgerald\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:00:47.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "Mission10_Fitzgerald\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Data\\Team.cs",
+              "RelativeToolTip": "Mission10_Fitzgerald\\Data\\Team.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:49:12.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Mission10_Fitzgerald\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Data\\Bowler.cs",
+              "RelativeToolTip": "Mission10_Fitzgerald\\Data\\Bowler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:45:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BowlerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Data\\BowlerDbContext.cs",
+              "RelativeDocumentMoniker": "Mission10_Fitzgerald\\Data\\BowlerDbContext.cs",
+              "ToolTip": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Data\\BowlerDbContext.cs",
+              "RelativeToolTip": "Mission10_Fitzgerald\\Data\\BowlerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:41:35.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Mission10_Fitzgerald\\Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\fitzk\\source\\repos\\Mission10_Fitzgerald\\backend\\Mission10_Fitzgerald\\Mission10_Fitzgerald\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Mission10_Fitzgerald\\Controllers\\BowlerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:39:49.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
