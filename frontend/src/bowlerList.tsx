@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react"
 import { bowler } from "./types/bowler"
+import './App.css';
 
 function BowlerList(){
     const [bowlers, setBowler] = useState<bowler[]>([]);
